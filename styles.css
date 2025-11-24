@@ -6,10 +6,9 @@
     background-color: brown;
 }
 .header{
-    background-color: blue;
-     display: flex;
-    justify-content: space-between;
-    align-items:center;
+    background-color: rgb(40, 40, 42);
+    text-align: center;
+
 }
 .link-list{
       display: flex;
@@ -29,8 +28,19 @@
 }
 .footer{
     background-color: rgb(226, 81, 171);
+    text-align: center;
 }
 .wrapper{
     max-width: 900px;
     margin: auto;
+}
+.image{
+    width: 510px;
+    height: 370px;
+    background-image: url("images/best-anime-of-all-time-with-naruto-shippuden-dragon-ball-z-vegeta-and-sailor-moon.avif");
+    background-size: cover;
+    background-position: center;
+}
+.nav-list-item{
+    flex: 1 0 0
 }
