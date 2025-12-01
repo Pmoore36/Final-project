@@ -1,0 +1,42 @@
+
+
+
+.title-color{
+    color: rgb(227, 188, 69);
+}
+.header{
+    background-color: rgba(11, 90, 27, 70%);
+     text-align: center;
+    padding: 20px;
+    border-bottom:5px solid rgb(227, 188, 69);
+
+}
+.main{
+      background-color: rgba(11, 90, 27,70%);
+        border-right: 5px solid rgb(227, 188, 69);
+    flex:1 0 0;
+    padding: 20px;
+}
+.footer{
+ background-color: rgba(11, 90, 27,70%);
+  text-align: center;
+    padding: 20px;
+    border-top:5px solid rgb(227, 188, 69);
+
+}
+.nav-color{
+    color: rgb(227, 188, 69);
+}
+.image{
+    background-image: url(images/otyvtd4hsbol0mjm0g3c.jpg);
+}
+body{
+    margin:0;
+     font-family: "Lato", sans-serif;
+     background-image: url("images/flag.jpg")
+}
+.info{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;}
+ 

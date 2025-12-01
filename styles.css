@@ -16,6 +16,7 @@
       display: flex;
     list-style-type: none;
     margin-top: 50px;
+    padding: 0%;
 }
 .nav-link {
     margin: 0 8px;
@@ -57,7 +58,6 @@ body{
     margin:0;
      font-family: "Lato", sans-serif;
      background-image: url("images/hand-drawn-oriental-cloud-pattern-design_23-2151136937.avif")
-
 }
 .tittle{
     font-size: 60px;
