@@ -50,6 +50,7 @@
     background-size: cover;
     background-position: center;
     padding: 10px;
+    background-repeat: no-repeat;
 }
 .nav-list-item{
     flex: 1 0 0

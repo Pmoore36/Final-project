@@ -1,0 +1,28 @@
+.image{
+    background-image: url(images/all\ sayins\ only.avif);}
+
+
+     body{
+    margin:0;
+     font-family: "Lato", sans-serif;
+     background-image: url("images/hand-drawn-oriental-cloud-pattern_23-2151180374-dragon.avif")}
+
+    .header{
+    background-color: rgba(227, 129, 17, 0.7);
+     text-align: center;
+    padding: 20px;
+    border-bottom:5px solid rgb(226, 15, 15);}
+
+     .main{
+      background-color:rgba(227, 129, 17, 0.7);
+        border-right: 5px solid rgb(226, 15, 15);
+    flex:1 0 0;
+    padding: 20px;
+}
+
+.footer{
+ background-color:rgba(227, 129, 17, 0.7);
+  text-align: center;
+    padding: 20px;
+    border-top:5px solid rgb(226, 15, 15);
+}
